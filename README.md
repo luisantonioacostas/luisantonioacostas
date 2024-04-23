@@ -1,11 +1,11 @@
-### Hola mi nombre es Luis Acosta! 👋
+## Hola mi nombre es Luis! 👋
 ### iOS, Android & WEB, Software Developer
 
 Soy ingeniero de software profesional desde el año 2011.
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luisantonioacosta?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luisantonioacosta)
-[![Facebook](https://img.shields.io/badge/Facebook-@somoscrear.tk?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/somoscrear.tk)
+[![Facebook](https://img.shields.io/badge/Facebook-@somoscrear.tk?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/somoscrear.tk)
 [![Instagram](https://img.shields.io/badge/Instagram-@somoscrear?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/somoscrear)
 
 ## Tecnologías:
