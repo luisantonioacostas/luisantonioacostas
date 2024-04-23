@@ -1,5 +1,5 @@
 ### Hola mi nombre es Luis Acosta! 👋
-### Freelance  iOS, Android & WEB engineer
+### iOS, Android & WEB, Software Developer
 
 Soy ingeniero de software profesional desde el año 2011.
 
