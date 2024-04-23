@@ -1,11 +1,11 @@
 ## Hola mi nombre es Luis! 👋
 ### iOS, Android & WEB, Software Developer
 
-Soy ingeniero de software profesional desde el año 2011.
+Soy ingeniero de software profesional desde hace más de 13 años.
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luisantonioacosta?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luisantonioacosta)
-[![Facebook](https://img.shields.io/badge/Facebook-@somoscrear.tk?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/somoscrear.tk)
+[![Facebook](https://img.shields.io/badge/Instagram-@somoscrear?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/somoscrear.tk)
 [![Instagram](https://img.shields.io/badge/Instagram-@somoscrear?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/somoscrear)
 
 ## Tecnologías:
@@ -20,7 +20,7 @@ Soy ingeniero de software profesional desde el año 2011.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-Y alguna más...
+Entre otras...
 
 <!--
 **luisantonioacostas/luisantonioacostas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
