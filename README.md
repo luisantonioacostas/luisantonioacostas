@@ -5,7 +5,7 @@ Soy ingeniero de software profesional desde hace más de 13 años.
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luisantonioacosta?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luisantonioacosta)
-[![Facebook](https://img.shields.io/badge/Instagram-@somoscrear?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/somoscrear.tk)
+[![Facebook](https://img.shields.io/badge/Facebook-@somoscrear?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/somoscrear.tk)
 [![Instagram](https://img.shields.io/badge/Instagram-@somoscrear?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/somoscrear)
 
 ## Tecnologías:
